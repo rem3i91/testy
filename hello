@@ -1,5 +1,5 @@
-witaj świecie2
-
+witaj świecie2 
+zmiana 
 - `git init` – inicjalizacja nowego repozytorium.
 - `git add` – dodanie zmian do obszaru staging.
 - `git commit` – zapisanie zmian w repozytorium.
