@@ -1,1 +1,15 @@
 witaj świecie2
+
+- `git init` – inicjalizacja nowego repozytorium.
+- `git add` – dodanie zmian do obszaru staging.
+- `git commit` – zapisanie zmian w repozytorium.
+- `git clone` – sklonowanie repozytorium zdalnego.
+- `git status` – wyświetlenie statusu repozytorium.
+- `git branch` – zarządzanie gałęziami.
+- `git checkout` – przełączanie się między gałęziami.
+- `git merge` – scalanie gałęzi.
+- `git pull` – pobranie i scalenie zmian z repozytorium zdalnego.
+- `git push` – wysłanie zmian do repozytorium zdalnego.
+- `git log` – historia commitów.
+- `git rm` – usunięcie plików z repozytorium.
+
